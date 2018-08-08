@@ -26,7 +26,7 @@ Route::get('/doswiadczenie-zawodowe', function(){
 Route::get('/kontakt', function(){
 	return View::make('kontakt');
 });
-Route::get('/react', function(){
+Route::get('/reactCV', function(){
 	return View::make('react');
 });
 

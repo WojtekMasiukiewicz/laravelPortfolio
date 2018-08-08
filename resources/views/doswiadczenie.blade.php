@@ -3,12 +3,12 @@
 <div class="doswiadczenie">
 	<table class="table_content">
 		<tr>
-			<td>01/2015 - dzisiaj</td> 
-			<td>Express Rent a Car Sp. z o.o. Sp.k. - Mobilny doradca klienta</td>
+			<td>09/2017 - dzisiaj</td> 
+			<td>Assel - Młodszy programista systemów informatycznych</td>
 		</tr>
 		<tr>
-			<td>05/2013 - 12/2014</td>
-			<td>Ekotrade Sp. z o.o. - Ochrona imprez masowych i meczów piłki nożnej</td>
+			<td>01/2015 - 06/2018</td>
+			<td>Express Rent a Car - mobilny doradca klienta</td>
 		</tr>
 		<tr>
 			<td>04/2014 - 09/2014</td>

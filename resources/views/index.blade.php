@@ -61,8 +61,8 @@
 				@yield('content')
 				</div>
 			<div class="fb">
-				<a href="https://www.facebook.com/wojtek.masiukiewicz.9" target="_blank" class="sociallink">
-					<i class="icon-facebook"></i>
+				<a href="/reactCV" target="_blank" class="sociallink" style="font-size: 70px; padding-top: 25px">
+					CV
 				</a>
 			</div>
 			<div class="instagram">
